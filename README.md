@@ -15,9 +15,9 @@ I don't just code; I craft digital experiences that leave an impact. Fueled by p
 
 ## 🚀 Tech Stack
 
-- **Frontend:** React.js, Next.js, Redux, JavaScript(ES6+) , Tailwind CSS, Daisy UI, MUI
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Mongoose
+- **Frontend:** React.js, Next.js, Redux, JavaScript(ES6+) , Tailwind CSS
+- **Backend:** Node.js, Express.js, Graphql
+- **Database:** MongoDB, Mongoose, PostgreSQL
 - **Tools:** Git, VS Code, npm/yarn
 
 ### Profile Details : 
